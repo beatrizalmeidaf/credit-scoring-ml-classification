@@ -1,0 +1,83 @@
+# Practical Task of Classification (Machine Learning)
+
+# ![Image](https://github.com/user-attachments/assets/fa7f02c2-d5e2-4b25-bb67-bcae1e3be72b)
+
+## 📌 Sobre o Projeto
+Esse projeto tem como objetivo desenvolver um modelo de classificação para concessão de crédito utilizando aprendizado de máquina. A partir do arquivo `dados.csv`, o projeto passa por diversas etapas, desde a análise exploratória dos dados até a criação de um dashboard interativo no Power BI.
+
+## 🚀 Etapas do Projeto
+
+### 1. Análise Exploratória de Dados (EDA)
+**Objetivo:** Compreender a estrutura dos dados, identificar padrões e detectar anomalias.
+- Visualização da distribuição das variáveis 
+- Identificação de outliers 
+- Análise de correlação entre variáveis 
+- Resumo estatístico das variáveis
+- Visualização de dados categóricos e numéricos 
+
+### 2. Pré-processamento de Dados
+**Objetivo:** Preparar os dados para o modelo de aprendizado de máquina.
+- Tratamento de valores ausentes 
+- Codificação de variáveis categóricas
+- Normalização/Escala das variáveis numéricas
+- Divisão dos dados em treino e teste
+- Remoção de duplicatas
+
+### 3. Engenharia de Atributos (Feature Engineering)
+**Objetivo:** Criar novas variáveis que possam melhorar a performance do modelo.
+- Criação de novas features a partir das existentes 
+- Seleção das features mais relevantes 
+- Transformação de features (log, raiz quadrada, etc.) 
+- Análise da importância das features 
+
+### 4. Treinamento do Modelo de Classificação
+**Objetivo:** Treinar um modelo de machine learning para prever a concessão de crédito.
+- Escolha do algoritmo de classificação 
+- Treinamento do modelo 
+- Avaliação do modelo (acurácia, precisão, recall) 
+- Ajuste de hiperparâmetros
+- Validação cruzada 
+
+### 5. Interpretação e Comunicação dos Resultados
+**Objetivo:** Interpretar os resultados do modelo e comunicar conclusões de forma clara.
+- Interpretação dos resultados do modelo
+- Visualização dos resultados (matriz de confusão, curva ROC) 
+- Relatório final com conclusões e recomendações 
+- Discussão de possíveis melhorias no modelo 
+- Apresentação dos resultados para um público não técnico 
+
+### 6. Criação de um Dashboard no Power BI
+**Objetivo:** Desenvolver um dashboard interativo para apresentar os principais insights do modelo.
+- Importação e preparação dos dados no Power BI 
+- Criação de gráficos e visualizações relevantes (barras, linhas, dispersão) 
+- Uso de filtros e seletores para interatividade 
+- Criação de colunas e medidas calculadas 
+- Design e layout do dashboard (organização, cores, clareza) 
+- Integração de insights do modelo de machine learning (previsões, importância das features) 
+
+## 📦 Instalação e Configuração do Ambiente
+Para configurar o ambiente e garantir a reprodutibilidade dos experimentos, foi utilizado o **Conda**.
+
+### 1. Criar e ativar o ambiente Conda:
+```bash
+conda create -n classificacao_credito python=3.9 -y
+conda activate classificacao_credito
+```
+
+### 2. Instalar as dependências do projeto:
+```bash
+pip install -r requirements.txt
+```
+
+## 🛠️ Ferramentas Utilizadas  
+
+- **Linguagem:** Python  
+- **Principais bibliotecas:**  
+  - pandas  
+  - numpy  
+  - matplotlib  
+  - seaborn  
+  - scikit-learn  
+  - statistics  
+- **Versionamento:** Git 
+
