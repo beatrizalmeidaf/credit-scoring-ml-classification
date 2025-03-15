@@ -7,30 +7,33 @@ Esse projeto tem como objetivo desenvolver um modelo de classificação para con
 
 ## 🚀 Etapas do Projeto
 
-### 1. Análise Exploratória de Dados (EDA)
+###  1. Importação e Configuração
+**Objetivo:** Importar bibliotecas necessárias para o desenvolvimento do projeto.
+ 
+### 2. Análise Exploratória de Dados (EDA)
 **Objetivo:** Compreender a estrutura dos dados, identificar padrões e detectar anomalias.
+- Carregamento dos dados
 - Visualização da distribuição das variáveis 
 - Identificação de outliers 
 - Análise de correlação entre variáveis 
 - Resumo estatístico das variáveis
 - Visualização de dados categóricos e numéricos 
 
-### 2. Pré-processamento de Dados
+### 3. Pré-processamento de Dados
 **Objetivo:** Preparar os dados para o modelo de aprendizado de máquina.
-- Tratamento de valores ausentes 
+- Tratamento de outliers 
 - Codificação de variáveis categóricas
 - Normalização/Escala das variáveis numéricas
 - Divisão dos dados em treino e teste
-- Remoção de duplicatas
 
-### 3. Engenharia de Atributos (Feature Engineering)
+### 4. Engenharia de Atributos (Feature Engineering)
 **Objetivo:** Criar novas variáveis que possam melhorar a performance do modelo.
 - Criação de novas features a partir das existentes 
 - Seleção das features mais relevantes 
 - Transformação de features (log, raiz quadrada, etc.) 
 - Análise da importância das features 
 
-### 4. Treinamento do Modelo de Classificação
+### 5. Treinamento do Modelo de Classificação
 **Objetivo:** Treinar um modelo de machine learning para prever a concessão de crédito.
 - Escolha do algoritmo de classificação 
 - Treinamento do modelo 
@@ -38,7 +41,7 @@ Esse projeto tem como objetivo desenvolver um modelo de classificação para con
 - Ajuste de hiperparâmetros
 - Validação cruzada 
 
-### 5. Interpretação e Comunicação dos Resultados
+### 6. Interpretação e Comunicação dos Resultados
 **Objetivo:** Interpretar os resultados do modelo e comunicar conclusões de forma clara.
 - Interpretação dos resultados do modelo
 - Visualização dos resultados (matriz de confusão, curva ROC) 
@@ -46,7 +49,7 @@ Esse projeto tem como objetivo desenvolver um modelo de classificação para con
 - Discussão de possíveis melhorias no modelo 
 - Apresentação dos resultados para um público não técnico 
 
-### 6. Criação de um Dashboard no Power BI
+### 7. Criação de um Dashboard no Power BI
 **Objetivo:** Desenvolver um dashboard interativo para apresentar os principais insights do modelo.
 - Importação e preparação dos dados no Power BI 
 - Criação de gráficos e visualizações relevantes (barras, linhas, dispersão) 
