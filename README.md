@@ -47,16 +47,7 @@ Esse projeto tem como objetivo desenvolver um modelo de classificação para con
 - Visualização dos resultados (matriz de confusão, curva ROC) 
 - Relatório final com conclusões e recomendações 
 - Discussão de possíveis melhorias no modelo 
-- Apresentação dos resultados para um público não técnico 
-
-### 7. Criação de um Dashboard no Power BI
-**Objetivo:** Desenvolver um dashboard interativo para apresentar os principais insights do modelo.
-- Importação e preparação dos dados no Power BI 
-- Criação de gráficos e visualizações relevantes (barras, linhas, dispersão) 
-- Uso de filtros e seletores para interatividade 
-- Criação de colunas e medidas calculadas 
-- Design e layout do dashboard (organização, cores, clareza) 
-- Integração de insights do modelo de machine learning (previsões, importância das features) 
+- Apresentação dos resultados para um público não técnico  
 
 ## 📦 Instalação e Configuração do Ambiente
 Para configurar o ambiente e garantir a reprodutibilidade dos experimentos, foi utilizado o **Conda**.
