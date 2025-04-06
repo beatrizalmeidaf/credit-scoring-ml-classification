@@ -1,9 +1,13 @@
-# Practical Task of Classification (Machine Learning)
+# Credit Scoring Classification
 
 # ![Image](https://github.com/user-attachments/assets/fa7f02c2-d5e2-4b25-bb67-bcae1e3be72b)
 
 ## 📌 Sobre o Projeto
-Esse projeto tem como objetivo desenvolver um modelo de classificação para concessão de crédito utilizando aprendizado de máquina. A partir do arquivo `dados.csv`, o projeto passa por diversas etapas, desde a análise exploratória dos dados até a criação de um dashboard interativo no Power BI.
+Esse projeto tem como objetivo desenvolver um modelo de classificação para concessão de crédito utilizando aprendizado de máquina. A partir do arquivo `dados.csv`, o projeto passa por diversas etapas, desde a análise exploratória dos dados até a elaboração de um relatório técnico.
+
+📄 **Acesse o relatório completo aqui:** [Relatório Beatriz Almeida (PDF)](https://github.com/beatrizalmeidaf/credit-scoring-ml-classification/blob/main/Relatorio-BeatrizAlmeida.pdf)
+
+---
 
 ## 🚀 Etapas do Projeto
 
