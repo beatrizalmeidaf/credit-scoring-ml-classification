@@ -5,7 +5,7 @@
 ## 📌 Sobre o Projeto
 Esse projeto tem como objetivo desenvolver um modelo de classificação para concessão de crédito utilizando aprendizado de máquina. A partir do arquivo `dados.csv`, o projeto passa por diversas etapas, desde a análise exploratória dos dados até a elaboração de um relatório técnico.
 
-📄 **Acesse o relatório completo aqui:** [Relatório Técnico](https://github.com/beatrizalmeidaf/credit-scoring-ml-classification/blob/main/Relatorio-BeatrizAlmeida.pdf)
+📄 **Acesse o relatório completo aqui:** [Relatório Técnico](https://github.com/beatrizalmeidaf/credit-scoring-ml-classification/blob/main/relatório-técnico.pdf)
 
 ---
 
